@@ -10,3 +10,10 @@ This file contains the structural MRI data.
 
 ### anxiety_uniformity-test_z_FDR_0.01.nii.gz
 This file contains the functional data for anxiety.
+
+### Python packages
+The packages that where used for the completion of this assignment are: 
+* Nibabel
+* Os
+* Matplotlib
+* Numpy
